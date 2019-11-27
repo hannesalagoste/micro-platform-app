@@ -1,5 +1,7 @@
 {
   "name": "microplatform_new",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
